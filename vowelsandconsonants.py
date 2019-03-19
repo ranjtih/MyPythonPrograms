@@ -9,3 +9,4 @@ for i in range(0,len(s)):
 		ccount=ccount+1
 print(vcount,ccount)
 		
+print(s.swapcase())
