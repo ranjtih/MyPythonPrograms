@@ -1,0 +1,10 @@
+a="hello world"
+print(a.capitalize())
+print(a.title())
+print(a.count('l'))
+print(len(a))
+print(a.upper())
+print(a.lower())
+print(min(a))
+print(max(a))
+print(a.split(" "))
